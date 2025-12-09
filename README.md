@@ -1,3 +1,4 @@
-# sufia khan 
-this is my first repositry
+# sufia-khan 
+This is my first Repository.
+Author-sufia khan
 
